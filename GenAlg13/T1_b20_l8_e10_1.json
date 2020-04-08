@@ -1,0 +1,16 @@
+{
+  "16": {
+    "0": [ "Dense(720,  Activation= softplus)" ],
+    "1": [ "Dense(980,  Activation= relu)", "Dropout( 0.08 )" ],
+    "val_accuracy": "0.97725"
+  },
+  "0": {
+    "0": [ "Dense(180,  Activation= relu)", "Dropout( 0.46 )" ],
+    "val_accuracy": "0.975417"
+  },
+  "2": {
+    "0": [ "Dense(110,  Activation= softsign)", "Dropout( 0.08 )" ],
+    "1": [ "Dense(1520,  Activation= softmax)" ],
+    "val_accuracy": "0.975333"
+  }
+

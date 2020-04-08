@@ -1,0 +1,15 @@
+{
+  "2": {
+    "0": [ "Dense(986,  Activation= relu)", "Dropout( 0.43 )" ],
+    "val_accuracy": "0.979583"
+  },
+  "3": {
+    "0": [ "Dense(1211,  Activation= relu)", "Dropout( 0.43 )" ],
+    "val_accuracy": "0.979583"
+  },
+  "4": {
+    "0": [ "Dense(389,  Activation= relu)", "Dropout( 0.43 )" ],
+    "val_accuracy": "0.97925"
+  }
+
+}

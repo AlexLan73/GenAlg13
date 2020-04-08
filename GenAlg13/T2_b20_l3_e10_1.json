@@ -1,0 +1,18 @@
+{
+  "0": {
+    "0": [ "Dense(910,  Activation= relu)", "Dropout( 0.43 )" ],
+    "val_accuracy": "0.980333"
+  },
+  "3": {
+    "0": [ "Dense(1108,  Activation= relu)", "Dropout( 0.43 )" ],
+    "val_accuracy": "0.979167"
+  },
+  "1": {
+    "0": [ "Dense(460,  Activation= relu)", "Dropout( 0.41 )" ],
+    "1": [ "Dense(1890,  Activation= softmax)", "Dropout( 0.48 )" ],
+    "2": [ "Dense(1720,  Activation= tanh)" ],
+    "3": [ "Dense(1580,  Activation= hard_sigmoid)" ],
+    "val_accuracy": "0.978167"
+  }
+
+}
